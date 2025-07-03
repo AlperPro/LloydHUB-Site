@@ -195,7 +195,7 @@ function App() {
                   <div className="space-y-3">
                     <div className="flex items-center space-x-3">
                       <img
-                        src="/lloydgarmadon43.gif"
+                        src="/lloydgarmadon.gif"
                         alt="lloydgarmadon43"
                         className="w-8 h-8 rounded-full object-cover"
                       />
